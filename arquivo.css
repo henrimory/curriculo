@@ -17,7 +17,7 @@ header div#topo{
 	font-family: arial;
 	font-size: 8;
 }
-header div#dados{
+header div#dadosesq{
 	display: table;
 	float: left;
 	text-align: left;	
@@ -44,7 +44,7 @@ header div#dadosdir{
 
 header div#objetivo{
 	border-bottom: 1px #606060 solid;
-	height: 60px;
+	height: 30px;
 	width: 880px;
 	margin-left: 10px;
 	margin-top: 190px;
@@ -63,14 +63,14 @@ section div#linha{
 section div#formacao{
 	border-bottom: 3px #606060 solid;
 	text-align:center;
-	margin-top: -5px;
+	margin-top: 40px;
 	margin-left: 10px;
 	font-family: arial;
 	font-size: 8;
 	height: 30px;
 	width: 880px;
 }
-section div#itens{
+section div#itens1{
 
 	margin-left: 10px;
 	font-family: arial;
@@ -80,10 +80,33 @@ section div#itens{
 	height: 100px;
 	width: 880px;
 }
+
+section div#itens2{
+
+	margin-left: 10px;
+	font-family: arial;
+	font-size: 8;
+	/*border-bottom: 3px #606060 solid;*/
+	margin-top: 0px;
+	height: 100px;
+	width: 880px;
+}
+
+section div#itens3{
+
+	margin-left: 10px;
+	font-family: arial;
+	font-size: 8;
+	/*border-bottom: 3px #606060 solid;*/
+	margin-top: 0px;
+	height: 20px;
+	width: 880px;
+}
+
 section div#idioma{
 	border-bottom: 3px #606060 solid;
 	text-align:center;
-	margin-top: -5px;
+	margin-top: 5px;
 	margin-left: 10px;
 	font-family: arial;
 	font-size: 8;
